@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rorywx16
 - 👀 I’m interested in PTGW
 - 🌱 I’m currently learning programing
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on numerical simulation of the early 
 - 📫 How to reach me ...
 
 <!---

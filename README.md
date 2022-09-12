@@ -2,7 +2,7 @@
 - 👀 I’m interested in PTGW
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on numerical simulation of the early Universe
-- 📫 How to reach me ...
+- 📫 How to reach me rorywangcehong@gmail.com
 
 <!---
 Rorywx16/Rorywx16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
